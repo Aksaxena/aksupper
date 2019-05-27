@@ -1,0 +1,14 @@
+{
+    "name": "aks/aksupper",
+    "description": "This is used for string conversation like string print in lower and upper case.",
+    "type": "laravel package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alok kumar Saxena",
+            "email": "saxenaalokkumar878@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
